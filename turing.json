@@ -1,59 +1,60 @@
 {
-  "title": {
-    "media": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alan_Turing_Aged_16.jpg/330px-Alan_Turing_Aged_16.jpg",
-      "caption": "The man who started the AI revolution.",
-      "credit": "wikipedia"
-    },
-    "text": {
-      "headline": "Alan Turing<br/> 1912 - 1954",
-      "text": "<p>Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist.</p>"
-    }
-  },
-  "events": [
-    {
+    "title": {
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Grand_Union_Canal_at_Little_Venice.JPG/480px-Grand_Union_Canal_at_Little_Venice.JPG",
-        "caption": "Turing was born.",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alan_Turing_Aged_16.jpg/330px-Alan_Turing_Aged_16.jpg",
+        "caption": "The man who started the AI revolution.",
         "credit": "wikipedia"
       },
-      "start_date": {
-        "month": "6",
-        "day": "23",
-        "year": "1912"
-      },
       "text": {
-        "headline": "Inventor of turing Machine",
-        "text": "<p>was born.</p>"
+        "headline": "Alan Turing<br/> 1912 - 1954",
+        "text": "<p>Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist.</p>"
       }
     },
-    {
-      "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/20130808_Kings_College_Front_Court_Fountain_Crop_03.jpg/330px-20130808_Kings_College_Front_Court_Fountain_Crop_03.jpg",
-        "caption": "Turing studied as an undergraduate from 1931 to 1934 at King's College, Cambridge",
-        "credit": "wiki"
+    "events": [
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Grand_Union_Canal_at_Little_Venice.JPG/480px-Grand_Union_Canal_at_Little_Venice.JPG",
+          "caption": "Turing was born.",
+          "credit": "wikipedia"
+        },
+        "start_date": {
+          "month": "6",
+          "day": "23",
+          "year": "1912"
+        },
+        "text": {
+          "headline": "Inventor of turing Machine",
+          "text": "<p>was born.</p>"
+        }
       },
-      "start_date": {
-        "year": "1931"
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/20130808_Kings_College_Front_Court_Fountain_Crop_03.jpg/330px-20130808_Kings_College_Front_Court_Fountain_Crop_03.jpg",
+          "caption": "Turing studied as an undergraduate from 1931 to 1934 at King's College, Cambridge",
+          "credit": "wiki"
+        },
+        "start_date": {
+          "year": "1931"
+        },
+        "text": {
+          "headline": "Undergraduate studies",
+          "text": "where he was awarded first-class honours in mathematics. In 1935, at the age of 22, he was elected a Fellow of King's College on the strength of a dissertation in which he proved the central limit theorem."
+        }
       },
-      "text": {
-        "headline": "Undergraduate studies",
-        "text": "where he was awarded first-class honours in mathematics. In 1935, at the age of 22, he was elected a Fellow of King's College on the strength of a dissertation in which he proved the central limit theorem."
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Turing_Plaque.jpg/330px-Turing_Plaque.jpg",
+          "caption": "On 8 June 1954, at his house at 43 Adlington Road, Wilmslow, Turing's housekeeper found him dead",
+          "credit": ""
+        },
+        "start_date": {
+          "year": "1954"
+        },
+        "text": {
+          "headline": "The end of an era",
+          "text": "He had died the previous day at the age of 41. Cyanide poisoning was established as the cause of death"
+        }
       }
-    },
-    {
-      "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Turing_Plaque.jpg/330px-Turing_Plaque.jpg",
-        "caption": "On 8 June 1954, at his house at 43 Adlington Road, Wilmslow, Turing's housekeeper found him dead",
-        "credit": ""
-      },
-      "start_date": {
-        "year": "1954"
-      },
-      "text": {
-        "headline": "The end of an era",
-        "text": "He had died the previous day at the age of 41. Cyanide poisoning was established as the cause of death"
-      }
-    }
-  ]
-}
+    ]
+  }
+  
