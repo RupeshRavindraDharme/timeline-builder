@@ -2,4 +2,4 @@
 
 View this example [timeline](https://rupeshravindradharme.github.io/timeline-builder/)
 
-![timeline sample](timeline-example.png)
+![timeline sample](https://github.com/RupeshRavindraDharme/timeline-builder/blob/main/timeline-example.jpg)
